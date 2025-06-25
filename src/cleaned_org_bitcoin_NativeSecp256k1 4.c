@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
  🔐 Authorship Enforcement Header
  Author: Manuel J. Nieves (a.k.a. Satoshi Norkomoto)
@@ -10,6 +11,8 @@
  and subject to takedown, legal enforcement, and public notice.
 */
 
+=======
+>>>>>>> e48ecef (🔐 Lockdown: Verified authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24))
 <?php
 /*
  * 📜 Verified Authorship Notice

@@ -6,6 +6,7 @@
  * License: No commercial use without explicit licensing
  * Modifications must retain this header. Redistribution prohibited without written consent.
  */
+<<<<<<< HEAD
  * Copyright (c) 2008–2025 Manuel J. Nieves (a.k.a. Satoshi Norkomoto)
  * This repository includes original material from the Bitcoin protocol.
  *
@@ -17,4 +18,6 @@
  * Contact: Fordamboy1@gmail.com
  */
 # oreBitcoin-Authorship
+=======
+>>>>>>> e48ecef (🔐 Lockdown: Verified authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24))
 Authorship claim and GPG-proof over CoreBitcoin by Manuel Nieves (Manny27nyc), aka Satoshi Nakamoto. Includes verified authorship, screenshots, signed messages, and legal proof of original work..
